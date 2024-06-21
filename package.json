@@ -4,5 +4,5 @@
     ["ezo_ph/driver.py", "github:surdouski/micropython-EZO-pH/ezo_ph/driver.py"]
   ],
   "deps": [],
-  "version": "0.1"
+  "version": "0.2"
 }
