@@ -27,7 +27,7 @@ mip.install("github:surdouski/micropython-EZO-pH")
 Alternatively, you can install it by using mpremote if you don't have network connectivity on device.
 
 ```
-$ mpremote mip install github:surdouski/micropython-EZO-pH
+$ mpremote mip install "github:surdouski/micropython-EZO-pH"
 ```
 
 ## Usage
