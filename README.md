@@ -21,13 +21,13 @@ You can install usniffs from the REPL with mip.
 ```python
 # micropython REPL
 import mip
-mip.install("github.com:surdouski/micropython-EZO-pH")
+mip.install("github:surdouski/micropython-EZO-pH")
 ```
 
 Alternatively, you can install it by using mpremote if you don't have network connectivity on device.
 
 ```
-$ mpremote mip install github.com:surdouski/micropython-EZO-pH
+$ mpremote mip install github:surdouski/micropython-EZO-pH
 ```
 
 ## Usage
