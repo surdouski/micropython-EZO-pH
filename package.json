@@ -1,7 +1,7 @@
 {
   "urls": [
-    ["ezo_ph/__init__.py", "github.com:surdouski/micropython-EZO-pH/ezo_ph/__init__.py"],
-    ["ezo_ph/driver.py", "github.com:surdouski/micropython-EZO-pH/ezo_ph/driver.py"]
+    ["ezo_ph/__init__.py", "github:surdouski/micropython-EZO-pH/ezo_ph/__init__.py"],
+    ["ezo_ph/driver.py", "github:surdouski/micropython-EZO-pH/ezo_ph/driver.py"]
   ],
   "deps": [],
   "version": "0.1"
